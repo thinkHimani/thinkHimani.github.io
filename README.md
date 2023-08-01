@@ -2,4 +2,4 @@
 
 
 ### Website coming soon! :)
-Contact: <a href="thinkhimani@gmail.com">thinkhimani@gmail.com</a>
+Contact: <a href="mailto:thinkhimani@gmail.com">thinkhimani@gmail.com</a>
