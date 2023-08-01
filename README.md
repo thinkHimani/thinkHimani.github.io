@@ -1,2 +1,5 @@
-# thinkHimani.github.io
-# Testing
+# You have reached Himani Thakkar!
+
+
+### Website coming soon! :)
+Contact: thinkhimani@gmail.com
